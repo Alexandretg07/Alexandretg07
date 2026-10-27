@@ -1,8 +1,8 @@
 # Olá, eu sou o Thiago Alexandre! 👋
 
-### 👨‍💻 Estudante de Tecnologia & Entusiasta em Segurança Cibernética
+### 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas @ CEUB | Entusiasta em Segurança Cibernética
 
-Atualmente focado em construir uma base sólida em infraestrutura, banco de dados e desenvolvimento de software, com o objetivo de direcionar minha carreira para a área de **Segurança da Informação (Cybersecurity)**.
+Atualmente cursando Análise e Desenvolvimento de Sistemas no CEUB (Brasília), focado em construir uma base sólida em infraestrutura, banco de dados e desenvolvimento de software, com o objetivo de direcionar minha carreira para a área de **Segurança da Informação (Cybersecurity)**.
 
 ---
 
