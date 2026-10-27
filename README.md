@@ -1,6 +1,6 @@
 # Olá, eu sou o Thiago Alexandre! 👋
 
-### 👨‍💻 Futuro Especialista em Segurança Cibernética & Desenvolvedor
+### 👨‍💻 Estudante de Tecnologia & Entusiasta em Segurança Cibernética
 
 Atualmente focado em construir uma base sólida em infraestrutura, banco de dados e desenvolvimento de software, com o objetivo de direcionar minha carreira para a área de **Segurança da Informação (Cybersecurity)**.
 
